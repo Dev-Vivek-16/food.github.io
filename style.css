@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color:#3b5998;
+}
+
+.header > ul > li > a {
+  color: white;
+  border: 1px solid transparent;
+  padding: 10px;
+}
+
+ul > li {
+  display: inline-block;
+} 
+
+ul {
+  float: right;
+  margin: 15px;
+  
+}
+
+ul > li > a {
+  text-decoration: none;
+}
+
+.header > h1 {
+  color: white;
+  float: left;
+}
+
+.title {
+  margin: 20px;
+  color: white;
+}
+
+ul > li > a:hover {
+  background-color: white;
+  color: black;
+}
+
+.contain > h2 {
+  color: white;
+  text-align: center;
+}
+
+
+
+.footer {
+  margin: 20px;
+  
+}
+
+.footer > h4 {
+  color: white;
+  position: absolute;
+  float: left;
+}
+
+.footer > a {
+  color: white;
+  float: left;
+  text-decoration: none;
+}
